@@ -10,7 +10,14 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0094D8"
+    },
+      "extra": {
+      "appName": "Reski AI",
+      "appVersion": "1.0.0",
+      "buildNumber": "1",
+      "gitCommit": "hashfuturo",
+      "channel": "Estável"
     },
     "ios": {
       "supportsTablet": true
@@ -18,7 +25,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#0094D8"
       },
       "edgeToEdgeEnabled": true
     },
