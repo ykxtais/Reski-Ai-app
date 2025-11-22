@@ -4,7 +4,7 @@ import { useNavigation } from '@react-navigation/native';
 import { auth } from '../firebase/firebaseConfig';
 import { useThemedStyles } from '../context/themeContext';
 
-export default function Home() {
+export default function Perfil() {
 
   return (
     <Text>Perfil</Text>
