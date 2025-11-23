@@ -61,7 +61,7 @@ npm run android
 
 ## ✨ Baixe o aplicativo
 
-- APK: <a href="https://expo.dev/accounts/557553/projects/reski/builds/4dbbe243-6678-4ae4-b74b-4d18a25cffd0">App Reski AI</a>
+- APK: <a href="https://expo.dev/accounts/557553/projects/reski/builds/b100e486-0ac9-4c98-ae95-b974ea465bc2">App Reski AI</a>
 > Observação: o APK foi distribuído via **Firebase App Distribution**. Para instalar, aceite  **instalar apps de fontes desconhecidas** no Android.
  
 ## ⟢ Integrantes
