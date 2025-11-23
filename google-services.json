@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792668938150",
+    "project_id": "reski-30953",
+    "storage_bucket": "reski-30953.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792668938150:android:0f58be2c0f7300eeb3f967",
+        "android_client_info": {
+          "package_name": "com.reskiai.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3OKYYfFMjS8rnC1M3WLL05m28aeSLfFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
