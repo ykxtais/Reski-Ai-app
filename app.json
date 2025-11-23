@@ -12,12 +12,15 @@
       "resizeMode": "contain",
       "backgroundColor": "#0094D8"
     },
-      "extra": {
+    "extra": {
       "appName": "Reski AI",
       "appVersion": "1.0.0",
       "buildNumber": "1",
       "gitCommit": "2b36984",
-      "channel": "Estável"
+      "channel": "Estável",
+      "eas": {
+        "projectId": "b11aa200-a77d-4a86-84fb-c483bde34577"
+      }
     },
     "ios": {
       "supportsTablet": true
@@ -27,7 +30,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0094D8"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.reskiai.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
