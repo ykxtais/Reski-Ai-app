@@ -204,7 +204,7 @@ function InspirationCard({ icon, title, subtitle, description, colors }) {
     <View style={styles.root}>
       <ScrollView
         style={styles.scroll}
-        contentContainerStyle={{ paddingBottom: 40 }}
+        contentContainerStyle={{ paddingBottom: 90 }}
         showsVerticalScrollIndicator={false}
       >
         <Text style={styles.headerTitle}>Trilhas</Text>
